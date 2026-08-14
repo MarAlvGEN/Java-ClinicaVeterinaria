@@ -9,21 +9,14 @@
 [![Version](https://img.shields.io/badge/VERSION-v1.0.0-0D1117?style=for-the-badge&logoColor=white&labelColor=161B22)](https://github.com)
 
 
-<img width="1340" height="569" alt="image" src="https://github.com/user-attachments/assets/21b16d3a-b231-4cb7-be5f-3073d067c058" />
+<img width="1324" height="711" alt="image" src="https://github.com/user-attachments/assets/54f510af-21bd-4239-afd8-dd077f5a324f" />
 
 </div>
 
-[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white)](LUEGOPONGOLAURLXDXD)
+[![Explore Code](https://img.shields.io/badge/EXPLORE_CODE-VIEW_SOURCE-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarAlvGEN/Java-ClinicaVeterinaria/tree/main/src/com/veterinaria/TallerVeterinaria)
 
 ---
 
 ## Overview
 
 A lightweight Java framework designed to demonstrate core OOP principles including abstraction, interfaces, and polymorphism. It seamlessly manages clinical records, tracks vaccination logs, and unifies insurance calculations across both animals and clinical facilities.
-
-## Key Features
-
-* **Dynamic Consultation Pricing:** Calculates fees dynamically based on patient age and parameters.
-* **Vaccination Tracker:** Implements `IntVacunas` to log and monitor applied doses.
-* **Polymorphic Insurance:** Uses `IntSeguro` to issue unified policies for animals and clinics.
-* **Clean OOP Architecture:** Strictly-typed, modular design built with interface segregation.
